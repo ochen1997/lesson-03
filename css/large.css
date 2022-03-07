@@ -57,8 +57,9 @@ main {
 
 }
 
-main img {
-   width: 40%;
+.secton-2, p, img {
+   width: 100%;
+   height: auto;
 }
 
 .list {
